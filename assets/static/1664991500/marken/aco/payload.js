@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/aco", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/aco-therm-lichtschachtkoerper-1000-mm-x-1000-mm-x-400-mm-aco-2270635-1.jpg":"\u002Fassets\u002Fimages\u002Faco-therm-lichtschachtkoerper-1000-mm-x-1000-mm-x-400-mm-aco-2270635-1.webp"}}],fetch:{},mutations:void 0});
