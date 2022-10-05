@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gefenstert.de",
+    "hostname": "https://www.gefenstert.de/",
+    "email": "gefenstert.desurrealnetworks.io",
+    "organization": "gefenstert.de",
+    "logoText": "Gefenstert.de",
+    "title": "Fenster",
+    "subline": "Der Online Shop f\u00fcr Fenster",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1430313",
+        "8562050",
+        "2101905",
+        "5756903",
+        "7112808",
+        "7305014"
+    ],
+    "winnerProducts": [
+        "2270635",
+        "8535940",
+        "5830369"
+    ],
+    "featuredCategories": [
+        "Dachfenster",
+        "Kunststofffenster",
+        "Lichtsch\u00e4chte",
+        "Lichtsch\u00e4chte",
+        "Rollladenantriebe",
+        "Kunststofffenster"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fenster",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Fenster-Shop ist ein Gesch\u00e4ft, das sich auf Fenster und T\u00fcren spezialisiert hat. Sie haben eine gro\u00dfe Auswahl an Fenstern und T\u00fcren in verschiedenen Stilen und Gr\u00f6\u00dfen. Sie k\u00f6nnen auch Fenster und T\u00fcren ma\u00dfgeschneidert bestellen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Fensterladen: Fenster f\u00fcr jeden Bedarf",
+            "metaDescription": "Fenster ist ein Shop, der sich auf Fenster und T\u00fcren spezialisiert hat. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fenstern und T\u00fcren zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Fenster: Die besten Tipps f\u00fcr die Reinigung und Pflege",
+                    "text": "Die Fenster sind ein wichtiges Element in jedem Haus. Sie lassen Licht herein und geben uns die M\u00f6glichkeit, nach drau\u00dfen zu sehen. Fenster k\u00f6nnen aus verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Glas oder Kunststoff. Fenster k\u00f6nnen auch in unterschiedlichen Formen und Gr\u00f6\u00dfen sein. Die meisten Fenster haben ein Quadrat- oder Rechteck-Design, aber es gibt auch runde oder ovale Fenster. Fenster k\u00f6nnen auch in verschiedenen Farben und Designs gestaltet werden.\n\nFenster sind nicht nur ein wichtiges Element f\u00fcr das Aussehen eines Hauses, sondern sie sind auch sehr praktisch. Fenster lassen Licht herein und halten die K\u00e4lte drau\u00dfen. Fenster k\u00f6nnen auch ge\u00f6ffnet werden, um frische Luft hereinzulassen. Fenster sind auch eine gute M\u00f6glichkeit, um den Blick nach drau\u00dfen zu genie\u00dfen.\n\nFenster m\u00fcssen regelm\u00e4\u00dfig gereinigt werden, um Schmutz und Staub zu entfernen. Fenster sollten auch regelm\u00e4\u00dfig \u00fcberpr\u00fcft werden, um sicherzustellen, dass sie in einem guten Zustand sind. Fenster k\u00f6nnen repariert oder ersetzt werden, wenn sie besch\u00e4digt sind.\n\nFenster sind ein wichtiger Teil eines Hauses und sollten mit Sorgfalt behandelt werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fenster Shop: Dein Fenster Einkaufsparadies",
+            "metaDescription": "Der Fenster-Shop ist Ihr Ansprechpartner f\u00fcr Fenster, T\u00fcren und Zubeh\u00f6r. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fenstermanufacturer: Die besten Fenster aus Deutschland",
+            "metaDescription": "Fenster is a manufacturer of high quality windows. We offer a wide range of windows to suit your needs. Visit our website to learn more about our products and services.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Fenster: Die besten Fenster f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihr Zuhause. Wir bieten eine gro\u00dfe Auswahl an $KATEGORIE, die f\u00fcr jeden Geschmack und jeden Geldbeutel geeignet ist.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fenster $KATEGORIE \u2013 Alles was Sie wissen m\u00fcssen!",
+        "defaultMetaDescription": "$KATEGORIE Fenster: Finde die besten Angebote f\u00fcr neue und gebrauchte Fenster. Kaufe und verkaufe Fenster in deiner N\u00e4he.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Fenster - hochwertige Fenster in unterschiedlichen Ausf\u00fchrungen f\u00fcr Ihr Zuhause. Jetzt online konfigurieren und bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Fenster",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Fenster Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Fenster Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
