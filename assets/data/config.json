@@ -51,12 +51,15 @@
             "title": "Fensterladen: Fenster für jeden Bedarf",
             "metaDescription": "Fenster ist ein Shop, der sich auf Fenster und Türen spezialisiert hat. Wir bieten eine große Auswahl an verschiedenen Fenstern und Türen zu günstigen Preisen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Fenster: Die besten Tipps für die Reinigung und Pflege",
-                    "text": "Die Fenster sind ein wichtiges Element in jedem Haus. Sie lassen Licht herein und geben uns die Möglichkeit, nach draußen zu sehen. Fenster können aus verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Glas oder Kunststoff. Fenster können auch in unterschiedlichen Formen und Größen sein. Die meisten Fenster haben ein Quadrat- oder Rechteck-Design, aber es gibt auch runde oder ovale Fenster. Fenster können auch in verschiedenen Farben und Designs gestaltet werden.\n\nFenster sind nicht nur ein wichtiges Element für das Aussehen eines Hauses, sondern sie sind auch sehr praktisch. Fenster lassen Licht herein und halten die Kälte draußen. Fenster können auch geöffnet werden, um frische Luft hereinzulassen. Fenster sind auch eine gute Möglichkeit, um den Blick nach draußen zu genießen.\n\nFenster müssen regelmäßig gereinigt werden, um Schmutz und Staub zu entfernen. Fenster sollten auch regelmäßig überprüft werden, um sicherzustellen, dass sie in einem guten Zustand sind. Fenster können repariert oder ersetzt werden, wenn sie beschädigt sind.\n\nFenster sind ein wichtiger Teil eines Hauses und sollten mit Sorgfalt behandelt werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Fenster: Die besten Tipps für die Reinigung und Pflege",
+                        "text": "Die Fenster sind ein wichtiges Element in jedem Haus. Sie lassen Licht herein und geben uns die Möglichkeit, nach draußen zu sehen. Fenster können aus verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Glas oder Kunststoff. Fenster können auch in unterschiedlichen Formen und Größen sein. Die meisten Fenster haben ein Quadrat- oder Rechteck-Design, aber es gibt auch runde oder ovale Fenster. Fenster können auch in verschiedenen Farben und Designs gestaltet werden.\n\nFenster sind nicht nur ein wichtiges Element für das Aussehen eines Hauses, sondern sie sind auch sehr praktisch. Fenster lassen Licht herein und halten die Kälte draußen. Fenster können auch geöffnet werden, um frische Luft hereinzulassen. Fenster sind auch eine gute Möglichkeit, um den Blick nach draußen zu genießen.\n\nFenster müssen regelmäßig gereinigt werden, um Schmutz und Staub zu entfernen. Fenster sollten auch regelmäßig überprüft werden, um sicherzustellen, dass sie in einem guten Zustand sind. Fenster können repariert oder ersetzt werden, wenn sie beschädigt sind.\n\nFenster sind ein wichtiger Teil eines Hauses und sollten mit Sorgfalt behandelt werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Fenster Shop: Dein Fenster Einkaufsparadies",
