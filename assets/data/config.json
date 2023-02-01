@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gefenstert.de",
     "hostname": "https://www.gefenstert.de/",
     "email": "gefenstert.de@surrealnetworks.io",
     "organization": "gefenstert.de",
     "logoText": "Gefenstert.de",
-    "title": "Fenster",
-    "subline": "Der Online Shop für Fenster",
+    "title": "Fenster Shop",
+    "subline": "Der Online Shop für qualitative Fenster",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fenster",
-        "featureText": "Das Fenster-Shop ist ein Geschäft, das sich auf Fenster und Türen spezialisiert hat. Sie haben eine große Auswahl an Fenstern und Türen in verschiedenen Stilen und Größen. Sie können auch Fenster und Türen maßgeschneidert bestellen.",
+        "featureText": "Willkommen im Fenster-Shop! Bei uns finden Sie neben Fenstern für sämtliche Anwendungsbereiche auch Rollladenantriebe, Fensterbänke, Markisen und vieles mehr. Unsere Produkte überzeugen durch Qualität und Langlebigkeit. Hergestellt von namhaften Anbietern wie Velux, Schellenberg und JM Meeth und Co. Klicken Sie sich gerne einmal durch unser Sortiment und finden Sie die passenden Fenster für Ihr Zuhause!",
         "index": {
-            "title": "Fensterladen: Fenster für jeden Bedarf",
-            "metaDescription": "Fenster ist ein Shop, der sich auf Fenster und Türen spezialisiert hat. Wir bieten eine große Auswahl an verschiedenen Fenstern und Türen zu günstigen Preisen.",
+            "title": "Fenster für jeden Bedarf [günstig online kaufen]",
+            "metaDescription": "Bei uns erhältlich! | Bestellen Sie Fenster in sämtlichen Designs, Fensterbänke, Rolllädenantriebe uvm. von Marken wie Velux und Schellenberg einfach online!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Fenster Shop: Dein Fenster Einkaufsparadies",
-            "metaDescription": "Der Fenster-Shop ist Ihr Ansprechpartner für Fenster, Türen und Zubehör. Wir bieten Ihnen eine große Auswahl an Produkten zu günstigen Preisen.",
+            "title": "Der Online Shop für Fenster | gefenstert.de",
+            "metaDescription": "Online Shop für alles rund ums Fenster | Kunststofffenster, Dachfenster, Lichtschächte und andere ausgewählte Produkte | Günstig bestellen & schnell geliefert ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Fenstermanufacturer: Die besten Fenster aus Deutschland",
-            "metaDescription": "Fenster is a manufacturer of high quality windows. We offer a wide range of windows to suit your needs. Visit our website to learn more about our products and services.",
+            "title": "Hersteller für qualitative Fenster ",
+            "metaDescription": "Jetzt bei uns bestellen! | Alles rund ums Fenster von namhaften Herstellern wie Velux, Schellenberg, JM Meeth und Weiteren.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Fenster: Die besten Fenster für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihr Zuhause. Wir bieten eine große Auswahl an $KATEGORIE, die für jeden Geschmack und jeden Geldbeutel geeignet ist.",
+        "defaultTitle": "$PRODUKT [günstig]",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine sehr gute Wahl für Ihr Zuhause! | Wir bieten eine große Auswahl an Produkten der Kategorie $KATEGORIE! | Sofort lieferbar!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Fenster $KATEGORIE – Alles was Sie wissen müssen!",
-        "defaultMetaDescription": "$KATEGORIE Fenster: Finde die besten Angebote für neue und gebrauchte Fenster. Kaufe und verkaufe Fenster in deiner Nähe.",
+        "defaultTitle": "$KATEGORIE – Riesige Auswahl & Günstige Preise",
+        "defaultMetaDescription": "$KATEGORIE: Hier finden Sie die besten Angebote, wenn es um das Thema $KATEGORIE geht! | Überzeugen Sie sich von unserem Angebot und den günstigen Preisen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Fenster - hochwertige Fenster in unterschiedlichen Ausführungen für Ihr Zuhause. Jetzt online konfigurieren und bestellen!",
+        "defaultTitle": "$HERSTELLER - Die besten Produkte bei uns",
+        "defaultMetaDescription": "Alles rund ums Fenster vom Anbieter $HERSTELLER | Top Produkte von weiteren namhaften Herstellern in unserem Shop! | Günstige Preise & Schnelle Lieferung",
         "defaultRobots": "index, follow",
         "brands": [
             {
