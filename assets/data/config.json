@@ -52,11 +52,31 @@
             "metaDescription": "Bei uns erhältlich! | Bestellen Sie Fenster in sämtlichen Designs, Fensterbänke, Rolllädenantriebe uvm. von Marken wie Velux und Schellenberg einfach online!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Fenster: Die besten Tipps für die Reinigung und Pflege",
-                        "text": "Die Fenster sind ein wichtiges Element in jedem Haus. Sie lassen Licht herein und geben uns die Möglichkeit, nach draußen zu sehen. Fenster können aus verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Glas oder Kunststoff. Fenster können auch in unterschiedlichen Formen und Größen sein. Die meisten Fenster haben ein Quadrat- oder Rechteck-Design, aber es gibt auch runde oder ovale Fenster. Fenster können auch in verschiedenen Farben und Designs gestaltet werden.\n\nFenster sind nicht nur ein wichtiges Element für das Aussehen eines Hauses, sondern sie sind auch sehr praktisch. Fenster lassen Licht herein und halten die Kälte draußen. Fenster können auch geöffnet werden, um frische Luft hereinzulassen. Fenster sind auch eine gute Möglichkeit, um den Blick nach draußen zu genießen.\n\nFenster müssen regelmäßig gereinigt werden, um Schmutz und Staub zu entfernen. Fenster sollten auch regelmäßig überprüft werden, um sicherzustellen, dass sie in einem guten Zustand sind. Fenster können repariert oder ersetzt werden, wenn sie beschädigt sind.\n\nFenster sind ein wichtiger Teil eines Hauses und sollten mit Sorgfalt behandelt werden."
+                        "title": "Willkommen bei Gefenstert - Ihrem Online-Shop für Fenster und Zubehör",
+                        "text": "Herzlich Willkommen bei Gefenstert, Ihrem Online-Shop für alles rund um das Thema Fenster. Wir bieten Ihnen eine breite Auswahl an hochwertigen Produkten, von Dachfenstern über Rollladenantriebe bis hin zu Fensterbänken und Kunststofffenstern. Unsere Produkte sind durchdacht konstruiert und bieten Ihnen eine hervorragende Funktionalität und Langlebigkeit. Bei uns finden Sie alles, was Sie für Ihre Fenster brauchen. Ob Sie ein neues Dachfenster benötigen, um Ihren Dachboden zu belichten, oder einen neuen Rollladenantrieb, um Ihre Rollläden bequem zu bedienen, bei uns werden Sie fündig. Auch für die Optik Ihrer Fenster haben wir eine breite Auswahl an Fensterbänken und Lichtschächten. Wir legen großen Wert auf Qualität und Kundenzufriedenheit. Deshalb arbeiten wir ausschließlich mit namhaften Herstellern zusammen, um Ihnen ein optimales Einkaufserlebnis zu bieten. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit gerne zur Verfügung, um Ihnen bei Fragen oder Anliegen weiterzuhelfen.Stöbern Sie durch unsere Kategorien und entdecken Sie die vielfältigen Möglichkeiten, die wir Ihnen bieten. Bei uns werden Sie garantiert fündig. Überzeugen Sie sich selbst und besuchen Sie uns noch heute in unserem Online-Shop. Wir freuen uns auf Ihren Besuch!"
+                    },
+                    {
+                        "title": "Dachfenster",
+                        "text": "Entdecken Sie unser großes Angebot an hochwertigen <a href=\"/kategorie/dachfenster/\" title=\"Dachfenster\">Dachfenster</a>n. Wir bieten eine große Auswahl an Größen, Stilen und Materialien, um Ihnen die beste Wahl für Ihr Dachfenster zu bieten. Unsere Dachfenster sind energiesparend und langlebig, damit Sie jahrelang Freude an Ihrem neuen Dachfenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Dachfenster für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Rollladenantriebe",
+                        "text": "Verbessern Sie Ihre Rollläden mit unseren hochmodernen <a href=\"/kategorie/rollladenantriebe/\" title=\"Rollladenantriebe\">Rollladenantriebe</a>n. Wir bieten eine große Auswahl an Rollladenantrieben, die einfach zu installieren und zu bedienen sind. Mit unseren Rollladenantrieben können Sie Ihre Rollläden bequem von Ihrem Sofa aus steuern. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Rollladenantrieb für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Fensterbänke",
+                        "text": "Verleihen Sie Ihren Fenstern einen neuen Look mit unseren hochwertigen <a href=\"/kategorie/fensterbaenke/\" title=\"Fensterbänke\">Fensterbänke</a>n. Wir bieten eine große Auswahl an Materialien, Größen und Farben, um Ihnen die beste Wahl für Ihre Fensterbänke zu bieten. Unsere Fensterbänke sind langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihren neuen Fensterbänken haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie die perfekten Fensterbänke für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Kunststofffenster",
+                        "text": "Entdecken Sie unser großes Angebot an hochwertigen <a href=\"/kategorie/kunststofffenster/\" title=\"Kunststofffenster\">Kunststofffenster</a>n. Wir bieten eine große Auswahl an Größen, Stilen und Farben, um Ihnen die beste Wahl für Ihr Kunststofffenster zu bieten. Unsere Kunststofffenster sind energiesparend, langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihrem neuen Kunststofffenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Kunststofffenster für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Lichtschächte",
+                        "text": "Verbessern Sie Ihre Beleuchtung mit unseren hochwertigen <a href=\"/kategorie/lichtschaechte/\" title=\"Lichtschächte\">Lichtschächte</a>n. Wir bieten eine große Auswahl an Lichtschächten, die einfach zu installieren und zu bedienen sind. Mit unseren Lichtschächten können Sie jeden Raum optimal ausleuchten. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Lichtschacht für Ihr Zuhause."
                     }
                 ]
             }
