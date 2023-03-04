@@ -16,7 +16,7 @@
     {
         "key": "fensterbänke",
         "name": "Fensterbänke",
-        "slug": "fensterbanke",
+        "slug": "fensterbaenke",
         "productCategory": "Fensterbänke",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "lichtschächte",
         "name": "Lichtschächte",
-        "slug": "lichtschachte",
+        "slug": "lichtschaechte",
         "productCategory": "Lichtschächte",
         "subCategories": []
     }
