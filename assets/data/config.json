@@ -6,7 +6,7 @@
   "organization": "gefenstert.de",
   "logoText": "Gefenstert.de",
   "title": "Fenster Shop",
-  "subline": "Der Online Shop f\u00fcr qualitative Fenster",
+  "subline": "Der Online Shop für qualitative Fenster",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -30,8 +30,8 @@
   "featuredCategories": [
     "Dachfenster",
     "Kunststofffenster",
-    "Lichtsch\u00e4chte",
-    "Lichtsch\u00e4chte",
+    "Lichtschächte",
+    "Lichtschächte",
     "Rollladenantriebe",
     "Kunststofffenster"
   ],
@@ -46,71 +46,104 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Fenster",
-    "featureText": "Willkommen im Fenster-Shop! Bei uns finden Sie neben Fenstern f\u00fcr s\u00e4mtliche Anwendungsbereiche auch Rollladenantriebe, Fensterb\u00e4nke, Markisen und vieles mehr. Unsere Produkte \u00fcberzeugen durch Qualit\u00e4t und Langlebigkeit. Hergestellt von namhaften Anbietern wie Velux, Schellenberg und JM Meeth und Co. Klicken Sie sich gerne einmal durch unser Sortiment und finden Sie die passenden Fenster f\u00fcr Ihr Zuhause!",
+    "featureText": "Willkommen im Fenster-Shop! Bei uns finden Sie neben Fenstern für sämtliche Anwendungsbereiche auch Rollladenantriebe, Fensterbänke, Markisen und vieles mehr. Unsere Produkte überzeugen durch Qualität und Langlebigkeit. Hergestellt von namhaften Anbietern wie Velux, Schellenberg und JM Meeth und Co. Klicken Sie sich gerne einmal durch unser Sortiment und finden Sie die passenden Fenster für Ihr Zuhause!",
     "index": {
-      "title": "Fenster f\u00fcr jeden Bedarf [g\u00fcnstig online kaufen]",
-      "metaDescription": "Bei uns erh\u00e4ltlich! | Bestellen Sie Fenster in s\u00e4mtlichen Designs, Fensterb\u00e4nke, Rolll\u00e4denantriebe uvm. von Marken wie Velux und Schellenberg einfach online!",
+      "title": "Fenster für jeden Bedarf [günstig online kaufen]",
+      "metaDescription": "Bei uns erhältlich! | Bestellen Sie Fenster in sämtlichen Designs, Fensterbänke, Rolllädenantriebe uvm. von Marken wie Velux und Schellenberg einfach online!",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei Gefenstert - Ihrem Online-Shop f\u00fcr Fenster und Zubeh\u00f6r",
-            "text": "Herzlich Willkommen bei Gefenstert, Ihrem Online-Shop f\u00fcr alles rund um das Thema Fenster. Wir bieten Ihnen eine breite Auswahl an hochwertigen Produkten, von Dachfenstern \u00fcber Rollladenantriebe bis hin zu Fensterb\u00e4nken und Kunststofffenstern. Unsere Produkte sind durchdacht konstruiert und bieten Ihnen eine hervorragende Funktionalit\u00e4t und Langlebigkeit. Bei uns finden Sie alles, was Sie f\u00fcr Ihre Fenster brauchen. Ob Sie ein neues Dachfenster ben\u00f6tigen, um Ihren Dachboden zu belichten, oder einen neuen Rollladenantrieb, um Ihre Rolll\u00e4den bequem zu bedienen, bei uns werden Sie f\u00fcndig. Auch f\u00fcr die Optik Ihrer Fenster haben wir eine breite Auswahl an Fensterb\u00e4nken und Lichtsch\u00e4chten. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Kundenzufriedenheit. Deshalb arbeiten wir ausschlie\u00dflich mit namhaften Herstellern zusammen, um Ihnen ein optimales Einkaufserlebnis zu bieten. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit gerne zur Verf\u00fcgung, um Ihnen bei Fragen oder Anliegen weiterzuhelfen.St\u00f6bern Sie durch unsere Kategorien und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten, die wir Ihnen bieten. Bei uns werden Sie garantiert f\u00fcndig. \u00dcberzeugen Sie sich selbst und besuchen Sie uns noch heute in unserem Online-Shop. Wir freuen uns auf Ihren Besuch!"
+            "title": "Willkommen bei Gefenstert - Ihrem Online-Shop für Fenster und Zubehör",
+            "text": "Herzlich Willkommen bei Gefenstert, Ihrem Online-Shop für alles rund um das Thema Fenster. Wir bieten Ihnen eine breite Auswahl an hochwertigen Produkten, von Dachfenstern über Rollladenantriebe bis hin zu Fensterbänken und Kunststofffenstern. Unsere Produkte sind durchdacht konstruiert und bieten Ihnen eine hervorragende Funktionalität und Langlebigkeit. Bei uns finden Sie alles, was Sie für Ihre Fenster brauchen. Ob Sie ein neues Dachfenster benötigen, um Ihren Dachboden zu belichten, oder einen neuen Rollladenantrieb, um Ihre Rollläden bequem zu bedienen, bei uns werden Sie fündig. Auch für die Optik Ihrer Fenster haben wir eine breite Auswahl an Fensterbänken und Lichtschächten. Wir legen großen Wert auf Qualität und Kundenzufriedenheit. Deshalb arbeiten wir ausschließlich mit namhaften Herstellern zusammen, um Ihnen ein optimales Einkaufserlebnis zu bieten. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit gerne zur Verfügung, um Ihnen bei Fragen oder Anliegen weiterzuhelfen.Stöbern Sie durch unsere Kategorien und entdecken Sie die vielfältigen Möglichkeiten, die wir Ihnen bieten. Bei uns werden Sie garantiert fündig. Überzeugen Sie sich selbst und besuchen Sie uns noch heute in unserem Online-Shop. Wir freuen uns auf Ihren Besuch!"
           },
           {
             "title": "Dachfenster",
-            "text": "Entdecken Sie unser gro\u00dfes Angebot an hochwertigen <a href=\"/kategorie/dachfenster/\" title=\"Dachfenster\">Dachfenster</a>n. Wir bieten eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen, Stilen und Materialien, um Ihnen die beste Wahl f\u00fcr Ihr Dachfenster zu bieten. Unsere Dachfenster sind energiesparend und langlebig, damit Sie jahrelang Freude an Ihrem neuen Dachfenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Dachfenster f\u00fcr Ihr Zuhause."
+            "text": "Entdecken Sie unser großes Angebot an hochwertigen <a href=\"/kategorie/dachfenster/\" title=\"Dachfenster\">Dachfenster</a>n. Wir bieten eine große Auswahl an Größen, Stilen und Materialien, um Ihnen die beste Wahl für Ihr Dachfenster zu bieten. Unsere Dachfenster sind energiesparend und langlebig, damit Sie jahrelang Freude an Ihrem neuen Dachfenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Dachfenster für Ihr Zuhause."
           },
           {
             "title": "Rollladenantriebe",
-            "text": "Verbessern Sie Ihre Rolll\u00e4den mit unseren hochmodernen <a href=\"/kategorie/rollladenantriebe/\" title=\"Rollladenantriebe\">Rollladenantriebe</a>n. Wir bieten eine gro\u00dfe Auswahl an Rollladenantrieben, die einfach zu installieren und zu bedienen sind. Mit unseren Rollladenantrieben k\u00f6nnen Sie Ihre Rolll\u00e4den bequem von Ihrem Sofa aus steuern. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Rollladenantrieb f\u00fcr Ihr Zuhause."
+            "text": "Verbessern Sie Ihre Rollläden mit unseren hochmodernen <a href=\"/kategorie/rollladenantriebe/\" title=\"Rollladenantriebe\">Rollladenantriebe</a>n. Wir bieten eine große Auswahl an Rollladenantrieben, die einfach zu installieren und zu bedienen sind. Mit unseren Rollladenantrieben können Sie Ihre Rollläden bequem von Ihrem Sofa aus steuern. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Rollladenantrieb für Ihr Zuhause."
           },
           {
-            "title": "Fensterb\u00e4nke",
-            "text": "Verleihen Sie Ihren Fenstern einen neuen Look mit unseren hochwertigen <a href=\"/kategorie/fensterbaenke/\" title=\"Fensterb\u00e4nke\">Fensterb\u00e4nke</a>n. Wir bieten eine gro\u00dfe Auswahl an Materialien, Gr\u00f6\u00dfen und Farben, um Ihnen die beste Wahl f\u00fcr Ihre Fensterb\u00e4nke zu bieten. Unsere Fensterb\u00e4nke sind langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihren neuen Fensterb\u00e4nken haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie die perfekten Fensterb\u00e4nke f\u00fcr Ihr Zuhause."
+            "title": "Fensterbänke",
+            "text": "Verleihen Sie Ihren Fenstern einen neuen Look mit unseren hochwertigen <a href=\"/kategorie/fensterbaenke/\" title=\"Fensterbänke\">Fensterbänke</a>n. Wir bieten eine große Auswahl an Materialien, Größen und Farben, um Ihnen die beste Wahl für Ihre Fensterbänke zu bieten. Unsere Fensterbänke sind langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihren neuen Fensterbänken haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie die perfekten Fensterbänke für Ihr Zuhause."
           },
           {
             "title": "Kunststofffenster",
-            "text": "Entdecken Sie unser gro\u00dfes Angebot an hochwertigen <a href=\"/kategorie/kunststofffenster/\" title=\"Kunststofffenster\">Kunststofffenster</a>n. Wir bieten eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen, Stilen und Farben, um Ihnen die beste Wahl f\u00fcr Ihr Kunststofffenster zu bieten. Unsere Kunststofffenster sind energiesparend, langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihrem neuen Kunststofffenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Kunststofffenster f\u00fcr Ihr Zuhause."
+            "text": "Entdecken Sie unser großes Angebot an hochwertigen <a href=\"/kategorie/kunststofffenster/\" title=\"Kunststofffenster\">Kunststofffenster</a>n. Wir bieten eine große Auswahl an Größen, Stilen und Farben, um Ihnen die beste Wahl für Ihr Kunststofffenster zu bieten. Unsere Kunststofffenster sind energiesparend, langlebig und pflegeleicht, damit Sie jahrelang Freude an Ihrem neuen Kunststofffenster haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie das perfekte Kunststofffenster für Ihr Zuhause."
           },
           {
-            "title": "Lichtsch\u00e4chte",
-            "text": "Verbessern Sie Ihre Beleuchtung mit unseren hochwertigen <a href=\"/kategorie/lichtschaechte/\" title=\"Lichtsch\u00e4chte\">Lichtsch\u00e4chte</a>n. Wir bieten eine gro\u00dfe Auswahl an Lichtsch\u00e4chten, die einfach zu installieren und zu bedienen sind. Mit unseren Lichtsch\u00e4chten k\u00f6nnen Sie jeden Raum optimal ausleuchten. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Lichtschacht f\u00fcr Ihr Zuhause."
+            "title": "Lichtschächte",
+            "text": "Verbessern Sie Ihre Beleuchtung mit unseren hochwertigen <a href=\"/kategorie/lichtschaechte/\" title=\"Lichtschächte\">Lichtschächte</a>n. Wir bieten eine große Auswahl an Lichtschächten, die einfach zu installieren und zu bedienen sind. Mit unseren Lichtschächten können Sie jeden Raum optimal ausleuchten. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Lichtschacht für Ihr Zuhause."
           }
         ]
       }
     },
     "shop": {
-      "title": "Der Online Shop f\u00fcr Fenster | gefenstert.de",
-      "metaDescription": "Online Shop f\u00fcr alles rund ums Fenster | Kunststofffenster, Dachfenster, Lichtsch\u00e4chte und andere ausgew\u00e4hlte Produkte | G\u00fcnstig bestellen & schnell geliefert ",
+      "title": "Der Online Shop für Fenster | gefenstert.de",
+      "metaDescription": "Online Shop für alles rund ums Fenster | Kunststofffenster, Dachfenster, Lichtschächte und andere ausgewählte Produkte | Günstig bestellen & schnell geliefert ",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Hersteller f\u00fcr qualitative Fenster ",
+      "title": "Hersteller für qualitative Fenster ",
       "metaDescription": "Jetzt bei uns bestellen! | Alles rund ums Fenster von namhaften Herstellern wie Velux, Schellenberg, JM Meeth und Weiteren.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT [g\u00fcnstig]",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine sehr gute Wahl f\u00fcr Ihr Zuhause! | Wir bieten eine gro\u00dfe Auswahl an Produkten der Kategorie $KATEGORIE! | Sofort lieferbar!",
+    "defaultTitle": "$PRODUKT [günstig]",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine sehr gute Wahl für Ihr Zuhause! | Wir bieten eine große Auswahl an Produkten der Kategorie $KATEGORIE! | Sofort lieferbar!",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "2270635",
+        "seo": {
+          "texts": [
+            {
+              "title": "ACO Therm Lichtschachtkörper 1000 mm x 1000 mm x 400 mm",
+              "text": "<p class=\"justify\">Der ACO Therm Lichtschachtkörper 1000 mm x 1000 mm x 400 mm ist eine perfekte Lösung für alle, die ihren Kellerraum optimal nutzen und diesen mit natürlichem Licht und Frischluft versorgen möchten. Diese Lichtschächte sorgen nicht nur für eine angenehme Wohnatmosphäre, sondern bieten auch Schutz vor eindringendem Wasser. Hergestellt aus glasfaserverstärktem Polypropylen oder glasverstärktem Kunststoff, zeichnen sich diese Lichtschachtkörper durch ihre hohe Langlebigkeit, Stabilität und 100%ige Recyclingfähigkeit aus.</p><p class=\"justify\">Die hochweiße Innenfläche der ACO Therm Lichtschächte garantiert eine bestmögliche Lichtreflexion, wodurch der Kellerraum hell und freundlich wirkt. Kompatibel sind die Lichtschächte in Tiefen von 400, 600 und 700 mm. Zudem können sie bei Bedarf mit Aufstockelementen in der Höhe erweitert werden. Verschiedene Abdeckungen bieten ausreichenden Schutz vor Schmutz und Regenwasser und sind entweder als begehbare oder befahrbare Abdeckroste in unterschiedlichen Ausführungen erhältlich.</p><p class=\"justify\">Für besondere bauliche Situationen sind verkürzte sowie verlängerte Lichtschachtroste verfügbar. Eine hochwertige Abdeckzarge aus Edelstahl rundet das Angebot ab und dient zum Abdecken der weißen Lichtschachtkante. Die ACO Therm Lichtschächte lassen sich nahezu überall an der Kellerwand, auf Perimeterdämmung oder druckwasserdicht montieren. Eine innovative Lösung stellt der ACO Therm Block dar, durch den eine wärmebrückenfreie Lichtschachtbefestigung ohne Bohrungen in die Kellerwand ermöglicht wird.</p><p class=\"justify\">Mit einem Preis von 109,99 € und einer durchschnittlichen Bewertung von 4 Sternen bei 325 Rezensionen bietet der ACO Therm Lichtschachtkörper 1000 mm x 1000 mm x 400 mm ein überzeugendes Preis-Leistungs-Verhältnis und steht für höchste Qualität. Verwandeln Sie Ihren Kellerraum in einen nutzbaren und angenehmen Wohnbereich mit diesem hochwertigen Lichtschachtkörper von ACO.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8535940",
+        "seo": {
+          "texts": [
+            {
+              "title": "JM Meeth Kunststofffenster ECO 70/3 Weiß DIN Links 90 cm x 90 cm",
+              "text": "<p class=\"justify\">Das JM Meeth Kunststofffenster ECO 70/3 in Weiß und DIN Links Ausführung bietet eine hervorragende Lösung für Ihr Zuhause. Das Fenster im Maß 90 cm x 90 cm ist aus hochwertigem, witterungsbeständigem PVC gefertigt, das Ihnen eine langlebige und pflegeleichte Nutzung garantiert. Mit 4046722761429 als GTIN-13-Code ist das Produkt leicht identifizierbar und in der Kategorie Kunststofffenster platziert.</p><p class=\"justify\">Das Kunststofffenster der Marke JM Meeth zeichnet sich durch seine herausragende Energieeffizienz und Funktionalität aus. Es gehört zur Kategorie Bauen und ist speziell in den Bereichen Fenster und Kunststofffenster angesiedelt. Mit seinem modernen Design in Weiß passt es sich jeder Raumgestaltung optimal an und sorgt für ein angenehmes Raumklima. Die ECO 70/3-Serie ist dafür bekannt, eine exzellente Wärmeschutz- und Schalldämmung zu bieten, sodass Sie in Ruhe Ihr Zuhause genießen können. Die skalierte Bewertung des Produkts liegt bei 4 Sternen und basiert auf 380 Bewertungen.</p><p class=\"justify\">In den Startseiten-Kategorien Startseite, Bauen, Fenster und Kunststofffenster ist das JM Meeth Kunststofffenster ECO 70/3 Weiß DIN Links 90 cm x 90 cm gelistet, und für den Preis von 119,99 Euro erhältlich. Dank seines ausgeklügelten Designs lässt sich das Fenster leicht einbauen und besticht nicht nur durch sein Äußeres, sondern auch durch seine außergewöhnlichen Funktionen. Die hochwertigen Bilder des Produkts sind in verschiedenen Formaten verfügbar und ermöglichen es Ihnen, sich einen umfassenden Eindruck von diesem hervorragenden Kunststofffenster zu verschaffen. Verwenden Sie den spezifischen Link-Title und den eindeutigen Slug jm-meeth-kunststofffenster-eco-70-3-weisz-din-links-90-cm-x-90-cm-8535940, um weitere Informationen zu erhalten und das Fenster in Ihr Zuhause zu integrieren.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5830369",
+        "seo": {
+          "texts": [
+            {
+              "title": "Fensterbank Instyle 410 cm x 20 cm Eisgranit Weiß (EG234 CR) von Sonstige",
+              "text": "<p class=\"justify\">Die Fensterbank Instyle 410 cm x 20 cm im Eisgranit Weiß (EG234 CR) ist ein hochwertiges Produkt der Marke Sonstige. Sie verbindet Funktionalität und Ästhetik und eignet sich perfekt für den Einsatz in Ihrem Zuhause. Mit ihrer ansprechenden Optik verleiht diese Fensterbank jedem Raum eine moderne und stilvolle Note.</p><p class=\"justify\">Die Instyle Fensterbank ist im schönen Dekor Eisgranit Weiß mit einer ausdrucksstarken Maserung versehen. Die Maße betragen 410 cm x 20 cm. 0,3 mm starkes Laminat schützt die Ober- und die Vorderseite. Die Unterseite und die Innenkante der Abkantung sind mit beharztem Kraftpapier bezogen. Dies bietet einen zusätzlichen Schutz und erhöht die Langlebigkeit der Fensterbank.</p><p class=\"justify\">In der Kategorie Fensterbänke ist dieses Produkt ein echtes Highlight. Es überzeugt durch seine Qualität und exzellente Verarbeitung. Dank der verwendeten Materialien ist die Fensterbank Instyle nicht nur schön anzusehen, sondern auch widerstandsfähig und pflegeleicht. So bleibt sie auch bei täglicher Nutzung lange erhalten.</p><p class=\"justify\">Mit einer hervorragenden Kundenbewertungen von 4 Sternen und über 476 Rezensionen ist die Fensterbank Instyle 410 cm x 20 cm Eisgranit Weiß (EG234 CR) ein zuverlässiger und geschätzter Begleiter für Ihr Zuhause. Wenn Sie nach einer Fensterbank suchen, die Funktionalität und Design vereint, dann ist dieses Produkt genau das Richtige für Sie.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE \u2013 Riesige Auswahl & G\u00fcnstige Preise",
-    "defaultMetaDescription": "$KATEGORIE: Hier finden Sie die besten Angebote, wenn es um das Thema $KATEGORIE geht! | \u00dcberzeugen Sie sich von unserem Angebot und den g\u00fcnstigen Preisen.",
+    "defaultTitle": "$KATEGORIE – Riesige Auswahl & Günstige Preise",
+    "defaultMetaDescription": "$KATEGORIE: Hier finden Sie die besten Angebote, wenn es um das Thema $KATEGORIE geht! | Überzeugen Sie sich von unserem Angebot und den günstigen Preisen.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -118,8 +151,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -137,15 +170,15 @@
   },
   "brandSeo": {
     "defaultTitle": "$HERSTELLER - Die besten Produkte bei uns",
-    "defaultMetaDescription": "Alles rund ums Fenster vom Anbieter $HERSTELLER | Top Produkte von weiteren namhaften Herstellern in unserem Shop! | G\u00fcnstige Preise & Schnelle Lieferung",
+    "defaultMetaDescription": "Alles rund ums Fenster vom Anbieter $HERSTELLER | Top Produkte von weiteren namhaften Herstellern in unserem Shop! | Günstige Preise & Schnelle Lieferung",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
